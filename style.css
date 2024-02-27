@@ -1,0 +1,19 @@
+#scrollSequenceContainer {
+  position: relative;
+  width: 100%; /* ou une largeur spécifique */
+}
+
+#scrollImage {
+  width: 100%; /* Ajustez selon le besoin */
+  height: auto;
+}
+
+#imageInfo {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* Fond semi-transparent */
+  color: #fff; /* Texte blanc */
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
